@@ -1,0 +1,12 @@
+
+<!-- 
+    1 轮播图外层容器 swiper
+    2 每一个轮播项 swiper-item
+    swpier 宽度 / swiper 高度 = 原图的宽度 / 原图的高度
+ -->
+
+<swiper>
+    <swiper-item><image mode="widthFix" src="//img.alicdn.com/tfs/TB1PBlGQYr1gK0jSZFDXXb9yVXa-520-280.jpg_q90_.webp"/></swiper-item>
+    <swiper-item><image mode="widthFix"src="//img.alicdn.com/tfs/TB1qYd9fRFR4u4jSZFPXXanzFXa-520-280.jpg_q90_.webp"/></swiper-item>
+    <swiper-item><image mode="widthFix"src="https://aecpm.alicdn.com/simba/img/TB1XotJXQfb_uJkSnhJSuvdDVXa.jpg"/></swiper-item>
+</swiper>
